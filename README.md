@@ -7,11 +7,11 @@ In this project, I developed a simple basketball shooting game. After pressing t
 ## Table of Contents
 
 - [Project Description](#Project-Description)
-- [Live Demo and Installation](#Live-Demo-and-Installation)
+- [Play Demo and Installation](#Live-Demo-and-Installation)
 - [Game Screen](#Game-Screen)
 
 
-## Live Demo and Installation
+## Play Demo and Installation
 https://melih-kir.itch.io/tap-to-shots
 
 ## Game Screen
