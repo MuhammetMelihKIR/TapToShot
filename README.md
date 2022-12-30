@@ -16,9 +16,6 @@ https://melih-kir.itch.io/tap-to-shots
 
 ## Game Screen
 
-img {
- float:left;
-}
 
 <img src="./TapToShot/ReadmeAssets/start.png.png" alt="racegif" width="20%"/>
 
