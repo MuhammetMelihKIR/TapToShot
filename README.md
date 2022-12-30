@@ -17,7 +17,7 @@ https://melih-kir.itch.io/tap-to-shots
 ## Game Screen
 
 
-<img src="./TapToShot/ReadmeAssets/start.png.png" alt="racegif" width="24%"/>
-<img src="./TapToShot/ReadmeAssets/mod.png.png" alt="racegif" width="24%"/>
-<img src="./TapToShot/ReadmeAssets/game.png.png" alt="racegif" width="24%"/>
-<img src="./TapToShot/ReadmeAssets/speed.png.png" alt="racegif" width="24%"/>
+<img src="./TapToShot/ReadmeAssets/start.png.png" alt="racegif" width="24"/>
+<img src="./TapToShot/ReadmeAssets/mod.png.png" alt="racegif" width="24"/>
+<img src="./TapToShot/ReadmeAssets/game.png.png" alt="racegif" width="24"/>
+<img src="./TapToShot/ReadmeAssets/speed.png.png" alt="racegif" width="24"/>
