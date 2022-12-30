@@ -17,14 +17,6 @@ https://melih-kir.itch.io/tap-to-shots
 
 ## Game Screen
 
-.image-container {
-  display: flex;
-}
-
-.image-container img {
-  width: 50%; /* resimlerin genişliğini %50 yapın */
-}
-
 <img src="./TapToShot/ReadmeAssets/start.png.png" alt="racegif" width="24%"/>
 <img src="./TapToShot/ReadmeAssets/mod.png.png" alt="racegif" width="24%" />
 <img src="./TapToShot/ReadmeAssets/game.png.png" alt="racegif" width="24%" />
