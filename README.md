@@ -20,7 +20,7 @@ https://melih-kir.itch.io/tap-to-shots
 
 ## Game Screen
 
-Tap to start
+
 <img src="./TapToShot/ReadmeAssets/start.png.png" alt="racegif" width="30%"/>
 
 <img src="./TapToShot/ReadmeAssets/mod.png.png" alt="racegif" width="30%"/>
