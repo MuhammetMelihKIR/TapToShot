@@ -21,10 +21,10 @@ https://melih-kir.itch.io/tap-to-shots
 ## Game Screen
 
 Tap to start
-<img src="./TapToShot/ReadmeAssets/start.png.png" alt="racegif" width="100%"/>
+<img src="./TapToShot/ReadmeAssets/start.png.png" alt="racegif" width="10%"/>
 Select Mod
-<img src="./TapToShot/ReadmeAssets/mod.png.png" alt="racegif" width="100%"/>
+<img src="./TapToShot/ReadmeAssets/mod.png.png" alt="racegif" width="10%"/>
 Play
-<img src="./TapToShot/ReadmeAssets/game.png.png" alt="racegif" width="100%"/>
+<img src="./TapToShot/ReadmeAssets/game.png.png" alt="racegif" width="10%"/>
 Select restart
-<img src="./TapToShot/ReadmeAssets/speed.png.png" alt="racegif" width="100%"/>
+<img src="./TapToShot/ReadmeAssets/speed.png.png" alt="racegif" width="10%"/>
