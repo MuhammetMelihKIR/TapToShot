@@ -16,7 +16,7 @@ In this project, I developed a simple basketball shooting game. After pressing t
 https://melih-kir.itch.io/tap-to-shots
 
 ## Game Screen
-
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img 
 <img src="./TapToShot/ReadmeAssets/start.png.png" alt="racegif" width="24%"/>
 <img src="./TapToShot/ReadmeAssets/mod.png.png" alt="racegif" width="24%" />
 <img src="./TapToShot/ReadmeAssets/game.png.png" alt="racegif" width="24%" />
