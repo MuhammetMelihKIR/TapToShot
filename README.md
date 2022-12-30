@@ -3,6 +3,8 @@
 
 ## Project Description
 In this project, I developed a simple basketball shooting game. After pressing the start button, you have to throw the basketball into the basket before the time runs out. There are 2 different modes in the game. In normal mode, the time decreases at a certain rate. In accelerated mode, the time decreases faster each time you score. When the time is up, your current score and your highest score will be displayed. The restart button will appear and the game will restart when it is clicked.
+
+
 <img src="https://i.pinimg.com/originals/dd/f7/35/ddf7350e9d263f9b4e971958760bf471.gif" alt="racegif" width="24%"/>
 
 ## Table of Contents
